@@ -7,10 +7,10 @@
 🚫 No data is ever collected — not now, not later  
 🧹 All metadata is stripped before transmission  
 📱 Nothing is stored on the device: no messages, no photos, no audio, no videos  
-🧾 No phone number, email, or identity verification is ever required  
+🧾 **No phone number, email, or identity verification is ever required**  
 🕵️‍♂️ No person, organization, or government can ever access your information  
 🛡️ Both the user's identity and their contacts remain completely hidden  
-📶 Fully independent — works even without a phone line or SIM card  
+📶 Fully independent — works without a phone line, SIM card, or any external platform. No dependencies, no intermediaries  
 
 💬 Every conversation is ephemeral, private, and 100% secured  
 🔒 The entire system is sealed: there are no backdoors, no trackers, and no exceptions  
