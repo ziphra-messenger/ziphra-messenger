@@ -19,4 +19,4 @@ Ziphra is designed to ensure one thing above all:
 Ziphra is not just an app — it’s a movement for digital freedom and privacy.  
 We welcome developers, security researchers, designers, translators, testers, and privacy advocates to contribute to the project.  
 Whether you're fixing bugs, improving documentation, building features, or simply sharing ideas — your participation matters.  
-Together, we can build a safer and freer digital world.
+**Together, we can build a safer and freer digital world.**
