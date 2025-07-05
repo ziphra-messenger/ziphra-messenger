@@ -1,22 +1,37 @@
 # Ziphra Messenger 🔐
-Ziphra Messenger is a secure messaging application with military-grade encryption, engineered to protect every message through multiple layers of end-to-end encryption.
 
-🚫 No data collection  
-🧹 All metadata is stripped  
-🕵️‍♂️ No person, organization, or government can access any information  
-🛡️ Both the user’s identity and their contacts are fully protected  
-📶 Works independently of any other platform — even without a phone line  
+**Ziphra Messenger** is an inviolable, end-to-end encrypted messaging system, built with military-grade encryption and engineered to guarantee total privacy and digital autonomy.
 
-📭 No messages, photos, audio, or videos are ever stored on the device  
-💬 Communication is ephemeral, private, and fully secured  
+---
 
-📖 Ziphra is 100% open source and licensed under the GNU General Public License v3.0 (GPLv3)
+🚫 No data is ever collected — not now, not later  
+🧹 All metadata is stripped before transmission  
+📱 Nothing is stored on the device: no messages, no photos, no audio, no videos  
+🧾 No phone number, email, or identity verification is ever required  
+🕵️‍♂️ No person, organization, or government can ever access your information  
+🛡️ Both the user's identity and their contacts remain completely hidden  
+📶 Fully independent — works even without a phone line or SIM card  
 
-Ziphra is designed to ensure one thing above all:  
-**Anonymity and privacy — guaranteed.**
+💬 Every conversation is ephemeral, private, and 100% secured  
+🔒 The entire system is sealed: there are no backdoors, no trackers, and no exceptions  
+
+---
+
+📖 **Ziphra is 100% open source**, licensed under the **GNU General Public License v3.0 (GPLv3)**.  
+Anyone can inspect, audit, and improve the code — total transparency, no hidden logic.
+
+Ziphra is not just secure — it is **absolutely anonymous, untraceable, and unbreakable**.
+
+> Designed for those who demand true digital freedom.  
+> Created to protect what others don't: your silence, your absence, your right to vanish.
+
+---
 
 ## 🤝 Join the Community
-Ziphra is not just an app — it’s a movement for digital freedom and privacy.  
-We welcome developers, security researchers, designers, translators, testers, and privacy advocates to contribute to the project.  
-Whether you're fixing bugs, improving documentation, building features, or simply sharing ideas — your participation matters.  
-**Together, we can build a safer and freer digital world.**
+
+Ziphra is not just an app — it’s a movement for uncompromised privacy.
+
+We invite developers, cryptographers, researchers, designers, testers, translators, and privacy advocates from around the world to contribute.  
+Whether you're fixing bugs, suggesting features, auditing the code, or helping spread the mission — your voice is part of this resistance.
+
+**Together, we can reclaim digital dignity.**
