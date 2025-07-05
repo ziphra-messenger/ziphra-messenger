@@ -10,7 +10,7 @@ Ziphra Messenger is a secure messaging application with military-grade encryptio
 📭 No messages, photos, audio, or videos are ever stored on the device  
 💬 Communication is ephemeral, private, and fully secured  
 
-🧩 Ziphra is 100% open source and licensed under the GNU General Public License v3.0 (GPLv3)
+📖 Ziphra is 100% open source and licensed under the GNU General Public License v3.0 (GPLv3)
 
 Ziphra is designed to ensure one thing above all:  
 **Anonymity and privacy — guaranteed.**
