@@ -1,11 +1,15 @@
-Ziphra Messenger is a military-grade encrypted messaging application, designed to protect all communications through multiple layers of encryption.
+# Ziphra Messenger 🔐
 
-It collects no data of any kind and completely removes all metadata.  
-No person, organization, or government can access any information.  
-Ziphra safeguards both the user’s identity and that of their contacts.  
-The app is entirely independent from any other platform, including the phone line itself.
+Ziphra Messenger is a secure messaging application with military-grade encryption, engineered to protect every message through multiple layers of end-to-end encryption.
 
-No messages, photos, audio, or videos are ever stored on the device.  
-Communication is ephemeral, private, and fully secured.
+🚫 No data collection.  
+🧹 All metadata is stripped.  
+🕵️‍♂️ No person, organization, or government can access any information.  
+🛡️ Both the user’s identity and their contacts are fully protected.  
+📶 Works independently of any other platform — even without a phone line.
 
-Anonymity and privacy — guaranteed.
+📭 No messages, photos, audio, or videos are ever stored on the device.  
+💬 Communication is ephemeral, private, and fully secured.
+
+Ziphra is designed to ensure one thing above all:  
+**Anonymity and privacy — guaranteed.**
