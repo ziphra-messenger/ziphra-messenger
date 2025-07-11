@@ -36,5 +36,6 @@ Whether you're fixing bugs, suggesting features, auditing the code, or helping s
 
 **Together, we can reclaim digital dignity.**
 
-Visita nuestra web oficial 👉 [https://ziphra-messenger.github.io/ziphra-web/](https://ziphra-messenger.github.io/ziphra-web/)
+🌐 Visit our official website 👉 [https://ziphra-messenger.github.io/ziphra-web/](https://ziphra-messenger.github.io/ziphra-web/)
+
 
